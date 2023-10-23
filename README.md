@@ -1,8 +1,8 @@
 # MiPi-PorkChop
-GarageMahal Buzzn' Tracker
-# The intent of this project is to track when friends are invited to the local fightclub Garage Mahal.
-# The Garage Mahal is a hidden garage where friends will gather when the owner has declared "Boyz are Buzzn' now"
-# Traditionally this has been done by a group text or a series of manual text messages.  The aim is to automate this with a "single pole signle throw switch - tied to a Raspiberi Pi 4b 2GB.
+GarageMahal Tracker
+# The intent of this project is to track when friends are invited to a local Garage Mahal.
+# The Garage Mahal is a garage where friends will gather to play video games, watch TV, throw darts, etc - when the owner has declared "Games are open now"
+# Traditionally this has been done by a group text or a series of manual text messages.  The aim is to automate this with a "single pole single throw switch - tied to a Raspiberi Pi 4b 2GB.
 # The initial PoC is to have an input of a Raspberi Pi 4b (GPIO 17?) that will indicate an "open" or "closed" circuit that coresponds to the Garage Mahal being "opened" or "Closed".  This should enable friends and family to check the status of a google form (At some point maybe a simple green or red icon on a web page) to know - "come on over, Garage Mahal is open"
 #
 #
