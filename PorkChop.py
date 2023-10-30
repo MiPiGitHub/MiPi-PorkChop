@@ -19,6 +19,7 @@ def update_door_status(status):
         print("Failed to update form")
 	print("Response Status Code:", response.status_code)
 	print("Post data: ", data)
+	print("Response Content:", response.text)
 
 try:
     # Set up GPIO
